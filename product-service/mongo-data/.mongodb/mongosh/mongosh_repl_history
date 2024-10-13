@@ -1,0 +1,11 @@
+db.product.find().pretty()
+db.users.find().pretty()
+show collections
+use product-service
+show dbs
+db.users.find().pretty()
+show dbs
+show collections
+use product-service
+use product-servie
+use admin

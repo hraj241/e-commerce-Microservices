@@ -1,0 +1,46 @@
+docker ps
+db.getUsers()
+use admin
+  -e MONGO_INITDB_ROOT_PASSWORD=password \
+  -e MONGO_INITDB_ROOT_USERNAME=root \
+  --name mongodb \
+docker run -d \
+use admin
+db.getUser('root')
+show collections
+use admin
+show collections
+use product-service
+docker exec -it dba733bf3432 mongo
+show dbs
+docker exec -it dba733bf3432 mongosh
+show dbs
+use admin
+show dbs
+show collections
+use local
+show collections
+use config
+show collections
+use admin
+show dbs
+docker ps
+docker logs fc44aa418f45;
+docker logs
+use admin
+1
+docker logs fc44aa418f45
+use admin
+docker ps
+docker logs fc44aa418f45
+use admin
+docker ps
+use admin
+db.auth('root', 'password')
+use adminin' })
+use admin
+db.auth('root', 'password')
+use adminwd: password })
+use admin
+db.auth('root', 'password')
+use admin
